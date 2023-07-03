@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf6615c6c5f050b49b8558dfa233be3f, type: 3}
+  m_Name: LongSwordData
+  m_EditorClassIdentifier: 
+  WeaponPrefab: {fileID: 15448191510330147, guid: bac79aa2a0057e5429a664d3f336da3d, type: 3}
+  WeaponColliderPosition: {x: 0, y: -0.35, z: 0}
+  WeaponColliderScale: {x: 0.1, y: 0.5, z: 0.1}
+  Weight: 1
+  Range: 1.5
+  Cooldown: 2.2
+  Damage: 10
+  DropPercentage: 40
+  DropPositionOffset: 1.5
+  DropTiltAngle: 25
+  WeaponFramePosition: {x: -25, y: -100, z: -10}
+  MovePitch: 1.7

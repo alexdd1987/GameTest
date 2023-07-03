@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf6615c6c5f050b49b8558dfa233be3f, type: 3}
+  m_Name: CurvedSwordData
+  m_EditorClassIdentifier: 
+  WeaponPrefab: {fileID: 6937623146161485751, guid: 4d0814cafad460246890ec829fa7071d, type: 3}
+  WeaponColliderPosition: {x: 0, y: -0.45, z: 0}
+  WeaponColliderScale: {x: 0.2, y: 0.5, z: 0.1}
+  Weight: 1.2
+  Range: 1.7
+  Cooldown: 1.8
+  Damage: 15
+  DropPercentage: 30
+  DropPositionOffset: 1.5
+  DropTiltAngle: 25
+  WeaponFramePosition: {x: -30, y: -95, z: -10}
+  MovePitch: 1.5

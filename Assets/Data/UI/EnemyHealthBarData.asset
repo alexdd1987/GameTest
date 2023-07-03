@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2b0c394639c53243b243e0f2b7c5133, type: 3}
+  m_Name: EnemyHealthBarData
+  m_EditorClassIdentifier: 
+  HealthBarIcon: {fileID: 8798844173826277720, guid: 847bf8deb5e698b4a9ba3c632c56c4cc, type: 3}
+  FillBarColor: {r: 0.8509804, g: 0.6666667, b: 0.09019608, a: 1}
+  LoseHealthAnimationSpeed: 5
+  ShowDamageAnimationSpeed: 3

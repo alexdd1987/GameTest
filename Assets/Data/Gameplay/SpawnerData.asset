@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45dedcdf261dfbd4ca666baa05e0f694, type: 3}
+  m_Name: SpawnerData
+  m_EditorClassIdentifier: 
+  SpawnAreaRadius: 15
+  SpawnIntervalInSeconds: 6
+  MaxConcurrentEntities: 8
+  SpawnedEntity: {fileID: 1358921057130329688, guid: 41e04faa14fb7a34e8b16750ec910fc3, type: 3}
+  SpawnedHero: {fileID: 3206923099687242354, guid: 89de4008f8cc87d4a8e2924ba9d12eb7, type: 3}
+  OffsetFromHero: 2
+  InitialDelayInSeconds: 2
