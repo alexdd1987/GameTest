@@ -1,6 +1,6 @@
 - The time it took you to perform the exercise
   
-	- I haven't exactly kept couunt of the hours, but I would estimate that this is the result of about 4/5 (6 tops) days of work overall. I worked on this mainly in the weekends and a few hours here and there during the week
+	- I haven't exactly kept count of the hours, but I would estimate that this is the result of about 4/5 (6 tops) days of work overall. I worked on this mainly in the weekends and a few hours here and there during the week
 
 - The parts that were difficult for you and why
 - The parts you think you could do better and how
